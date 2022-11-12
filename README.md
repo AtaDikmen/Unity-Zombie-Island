@@ -1,4 +1,4 @@
-# Unity-Zombie-Island
+# `Unity Zombie Island`
 
 Here is my first 3D game I made in a week. I hope you like it.
 
