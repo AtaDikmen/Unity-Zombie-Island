@@ -11,9 +11,9 @@ This is gameplay link: https://youtu.be/LSEJIieKpgM
 You can play with this link: https://atadk.itch.io/zombie-island ( I recommend playing it in full screen. )
 
 
-<h3 align="center">👋 Hello! I'm Jason.</h3>
+<h3 align="center">👋 Hello! I'm Ata.</h3>
 
 <p align="center">
-  <a href="https://jasonet.co">Youtube</a> •
-  <a href="https://twitter.com/JasonEtco">LinkedIn</a>
+  <a href="https://www.youtube.com/channel/UCdsMXtltS0MJLhb_S6HxFjQ">Youtube</a> •
+  <a href="https://www.linkedin.com/in/ata-dikmen-351a11234/">LinkedIn</a>
 </p>
