@@ -1,6 +1,6 @@
 # Unity-Zombie-Island
 
-Here is my first 3D game I made in a week.
+Here is my first 3D game I made in a week. I hope you like it.
 
 The goal of the game is to try to survive on an island full of zombies.
 
